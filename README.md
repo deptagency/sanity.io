@@ -45,8 +45,6 @@ Contributions to the `sanity.io` module are welcome. Please submit a pull reques
 
 This module is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-Sure, here's the information in English:
-
 ## Local Development
 
 To work on this project locally, you can follow these steps:
