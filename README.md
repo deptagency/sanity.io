@@ -24,10 +24,10 @@ Showing this additional information on the product page is a great way to tell a
 
 ## Installation
 
-You can install the `sanity.io` module via npm:
+You can install the `@deptdash/sanity-api` module via npm:
 
 ```bash
-npm install sanity.io
+npm install @deptdash/sanity-api
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ npm install sanity.io
 You can import the API functions from the module like so:
 
 ```javascript
-import { getProductFromSlug } from 'sanity.io';
+import { getProductFromSlug } from '@deptdash/sanity-api';
 ```
 
 Then, you can use these functions in your application to interact with the Sanity.io API.
@@ -47,7 +47,7 @@ Then, you can use these functions in your application to interact with the Sanit
 You can import the PortableText component from the module like so:
 
 ```javascript
-import { PortableText } from 'sanity.io';
+import { PortableText } from '@deptdash/sanity-api';
 ```
 
 Then, you can use this component in your React application to display rich text content from Sanity.io.
@@ -67,7 +67,7 @@ To work on this project locally, you can follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tres-caras/sanity.io.git
+git clone https://github.com/deptagency/sanity.io.git
 ```
 
 2. Install the dependencies:

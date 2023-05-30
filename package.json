@@ -1,10 +1,10 @@
 {
-  "name": "sanity.io",
-  "version": "1.0.3",
+  "name": "@deptdash/sanity-api",
+  "version": "1.0.0",
   "description": "simple and efficient interface for interacting with the sanity.io API",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tres-caras/sanity.io"
+    "url": "https://github.com/deptagency/sanity.io"
   },
   "main": "dist/index.js",
   "scripts": {
